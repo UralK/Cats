@@ -1,0 +1,10 @@
+.header__login-button {
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+    color: #FFFFFF;
+    background-color: #000000;
+    background-position: center;
+    cursor: pointer;
+    pointer-events: auto;
+    margin-left: 20px;
+}

@@ -1,0 +1,11 @@
+.element__edit {
+    border-radius: 50%;
+    background-color: #00BFFF;
+    background-image: url(../../../images/pen.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    cursor: pointer;
+}

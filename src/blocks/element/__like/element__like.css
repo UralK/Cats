@@ -1,0 +1,12 @@
+.element__like {
+    border: 0;
+    background: rgba(0,0,0,0);
+    background-image: url(../../../images/dislike.png);
+    background-repeat: no-repeat;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    cursor: pointer;
+}
